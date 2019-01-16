@@ -4,10 +4,10 @@
 #
 
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/lineage/sepolicy/common/public
+    device/lemon/sepolicy/common/public
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/lineage/sepolicy/common/private
+    device/lemon/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/lineage/sepolicy/common/vendor
+    device/lemon/sepolicy/common/vendor
